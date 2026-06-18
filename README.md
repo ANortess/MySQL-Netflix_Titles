@@ -3,7 +3,7 @@
 Este proyecto se centra en el diseño, implementación y explotación de un Data Warehouse (modelo estrella) a partir de un conjunto de datos bruto de Netflix (`netflix_raw`). Incluye todo el proceso de limpieza de datos, normalización de cadenas complejas y automatización de análisis estratégicos para la toma de decisiones de negocio.
 
 ## 📂 Estructura del Repositorio
-
+```
 /
 ├── data/                       # Datos originales (raw)
 │
@@ -19,7 +19,7 @@ Este proyecto se centra en el diseño, implementación y explotación de un Data
 │
 ├── modelo_estrella.png         # Imagen del diseño del Data Warehouse (Hechos y Dimensiones)
 └── modelo_netflix.mwb          # Modelo Entidad-Relación visual en MySQL Workbench
-
+```
 ---
 
 ## 📊 Diagrama de la Base de Datos (Modelo Estrella)
